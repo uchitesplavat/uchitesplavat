@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm uchitesplavat</h1>
-<h3 align="center">Junior Software Engineer (Developer)</h3></h3></h3>
-
+<h3 align="center">Junior Software Engineer (Developer)</h3>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchitesplavat&label=Profile%20views&color=0e75b6&style=flat" alt="uchitesplavat" /> </p>
 
 - 🔭 I’m currently working on [3D_Viewer](https://github.com/uchitesplavat/OBJ_3d_viewer)
