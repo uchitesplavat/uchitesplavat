@@ -22,4 +22,6 @@
 
 ![uchitesplavat](https://github-readme-stats.vercel.app/api/wakatime?username=uchitesplavat)
 
+![uchitesplavat](https://github-readme-stats.vercel.app/api?username=uchitesplavat&show_icons=true&theme=transparent)
+
 ![uchitesplavat](42logo.svg)
