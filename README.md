@@ -21,4 +21,3 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uchitesplavat)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uchitesplavat&theme=solarized_dark)
