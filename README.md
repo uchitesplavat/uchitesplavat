@@ -19,3 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchitesplavat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uchitesplavat)](https://github.com/anuraghazra/github-readme-stats)
