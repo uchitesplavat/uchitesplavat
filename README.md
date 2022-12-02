@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./hi.png)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
