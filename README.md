@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm uchitesplavat</h1>
 <h3 align="center">Junior Software Engineer (Developer)</h3>
 
-[![uchitesplavat](octocat1.png)https://myoctocat.com/]
+[![uchitesplavat](octocat1.png)](https://myoctocat.com/)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
