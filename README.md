@@ -1,4 +1,3 @@
-![uchitesplavat](sber.svg) ![uchitesplavat](42logo.svg)    
 <h1 align="center">Hi 👋, I'm uchitesplavat</h1>
 <h3 align="center">Junior Software Engineer (Developer)</h3>
 <div></div>
@@ -22,3 +21,4 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uchitesplavat)](https://github.com/anuraghazra/github-readme-stats)
 
+![uchitesplavat](42logo.svg)
