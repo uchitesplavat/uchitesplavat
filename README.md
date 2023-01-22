@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchitesplavat&label=Profile%20views&color=0e75b6&style=flat" alt="uchitesplavat" /> </p>
 
-- 🔭 I’m currently working on [3D_Viewer](https://github.com/uchitesplavat/OBJ_3d_viewer)
+- 🔭 I’m currently working on [containers_cpp](https://github.com/uchitesplavat/containers_cpp)
 
 - 🌱 I’m currently learning **C++, Qt, Docker**
 
