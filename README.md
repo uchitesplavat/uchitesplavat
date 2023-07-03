@@ -20,7 +20,7 @@
 
 ![uchitesplavat](https://github-readme-stats.vercel.app/api/top-langs/?username=uchitesplavat&layout=compact)
 
-![uchitesplavat](https://github-readme-stats.vercel.app/api/wakatime?username=uchitesplavat)
+[//]:![uchitesplavat](https://github-readme-stats.vercel.app/api/wakatime?username=uchitesplavat)
 
 ![uchitesplavat](https://github-readme-stats.vercel.app/api?username=uchitesplavat&show_icons=true&theme=transparent)
 
